@@ -181,8 +181,9 @@ nav {
     background-size: cover;
 }
 #project3card {
-    background-image: url(images/Project2.png);
-    background-size: cover;
+/*     background-image: url(images/Project2.png);
+    background-size: cover; */
+    background-color: rgb(69, 61, 61);
 }
 
 .project-card:hover {
@@ -340,3 +341,4 @@ footer {
 .footer-socials a:hover {
   color: rgb(197, 150, 241);
 }
+
